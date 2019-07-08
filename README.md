@@ -14,7 +14,7 @@ It contains (other than what is in the Function-Library-XOJO repository):
   - Vector manipulation  
   - A huge project with a bunch of mathematical sequence generators  
   
-  What I learn:  
+  What I learnt:  
     - Too much math   
     - More  math     
     - Popular algorithms    
