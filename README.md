@@ -12,7 +12,7 @@ It contains (other than what is in the Function-Library-XOJO repository):
   - System of equations up to 3 variables solutions calculator   
   - Prime number generator   
   - Vector manipulation  
-  - A huge project with a bunch of mathematical sequence generators  
+  - A huge project with a bunch of mathematical sequence generators (*__SuiteMATHEMATIQUE.xojo_binary_project__*)
   
 What I learnt:  
   - Too much math   
