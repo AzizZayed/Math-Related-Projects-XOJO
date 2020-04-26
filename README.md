@@ -17,7 +17,7 @@ It contains (other than what is in the Function-Library-XOJO repository):
 What I learnt:  
   - Too much math   
   - More  math     
-  - Popular algorithms    
-  - Algorithm development
+  - Data Structures    
+  - Algorithms
    
    
